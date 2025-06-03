@@ -1,7 +1,7 @@
 # 📈 Linear Regression Project
 
 ## Overview
-This project demonstrates how to use **Linear Regression** to predict continuous values from a dataset. It includes data preprocessing, visualization, model training, and evaluation — ideal for beginners learning supervised machine learning.
+This project demonstrates how to use **Linear Regression** to predict continuous values  of 🚀Price Priduction for House✔ from a dataset. It includes data preprocessing, visualization, model training, and evaluation — ideal for beginners learning supervised machine learning.
 
 ## 🔧 Technologies Used
 - Python
