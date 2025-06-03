@@ -1,0 +1,67 @@
+📄 Linear Regression Project Report for House Price Prediction
+
+
+Project Title: Linear Data Prediction Using Linear Regression
+
+
+📘 Overview
+This project demonstrates the use of Linear Regression, a fundamental machine learning technique, to predict continuous values from a dataset.
+It serves as a practical introduction to regression modeling, data preprocessing, and performance evaluation using Python libraries.
+
+
+📊 Objectives
+Understand the relationship between input features and a target variable.
+
+Build and train a linear regression model.
+
+Evaluate model performance using appropriate metrics.
+
+Visualize data and model predictions.
+
+
+🧰 Tools and Technologies
+Python
+
+Jupyter Notebook
+
+Libraries: pandas, numpy, matplotlib, scikit-learn
+
+
+🔄 Workflow
+Data Loading and Inspection
+
+Loaded the dataset using pandas.
+
+Checked for null values and overall data structure.
+
+Data Visualization
+
+Used scatter plots to visualize relationships between variables.
+
+Analyzed trends and outliers.
+
+Model Building
+
+Used LinearRegression from scikit-learn.
+
+Trained the model on a split dataset (training/testing).
+
+Prediction and Evaluation
+
+Generated predictions on test data.
+
+Evaluated using metrics like:
+
+Mean Squared Error (MSE)
+
+R² Score
+
+Visualization of Results
+
+Plotted regression line alongside actual data to interpret model fit.
+
+
+✅ Conclusion
+The project successfully demonstrates a complete pipeline for applying linear regression to a dataset. 
+The model provides a baseline for future regression work and can be expanded with more complex techniques like regularization or polynomial regression.
+
