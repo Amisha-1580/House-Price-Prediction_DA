@@ -1,0 +1,8 @@
+## 🔧 Technologies Used
+- Python
+- Jupyter Notebook
+- Libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
